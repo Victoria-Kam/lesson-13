@@ -1,0 +1,13 @@
+contractfd4444d	Валиден
+docnum12kijt485	Валиден
+docnum02315fgn!	Есть иные символы
+contract564bnm9	Валиден
+docnum111111111	Валиден
+docnum02315fgn/	Есть иные символы
+docnum123abc78-	Есть иные символы
+docnum123abc78+	Есть иные символы
+contract2222222	Валиден
+docnum032lko5427	Больше положенной длины
+contractbhu1502	Валиден
+contractfdudddd	Валиден
+docnum032lko547	Валиден
